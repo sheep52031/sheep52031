@@ -26,8 +26,8 @@ I'm a AI Backend Engineer.<br>
 <!-- <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210"> -->
 
 - Python, C, Swift
-- Tensorflow
-- Flask
+- Tensorflow, OpenCV
+- Flask, Line chatbot
 - MySQL, MongoDB
 - Git 
 - Docker, Docker-compose
@@ -51,10 +51,9 @@ I'm a AI Backend Engineer.<br>
   <img src="https://img.icons8.com/color/1x/opencv.png"/>
   <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
   <img src="https://img.icons8.com/color/1x/google-cloud.png"/>
- <img src="https://img.icons8.com/color/1x/docker.png"/>
-  <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
+  <img src="https://img.icons8.com/color/1x/docker.png"/>
   <img src="https://img.icons8.com/color/1x/linux--v2.png"/>
- <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
 </p>
 
 <br>
