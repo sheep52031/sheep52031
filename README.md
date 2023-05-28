@@ -27,8 +27,8 @@ I'm a AI Backend Engineer.<br>
 - Flask, Line chatbot
 - MySQL, MongoDB
 - Git 
-- Docker, Docker-compose
-- GCP
+- Docker, Kubernetes
+- Google Cloud
 
 <br>
 
