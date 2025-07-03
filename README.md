@@ -50,7 +50,6 @@ I'm a passionate AI/ML Engineer with a strong background in building scalable di
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheep52031&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheep52031&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheep52031&theme=radical" alt="GitHub Streak" width="400" />
 </div>
 
 
