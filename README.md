@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | LLM Enthusiast | Full-Stack Developer</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jason-lin-896055125/">
+  <a href="https://www.linkedin.com/in/jaron-lin-896055125/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:sheep52031@gmail.com">
@@ -68,7 +68,7 @@ I'm a passionate AI/ML Engineer with a strong background in building scalable di
 - Led a 6-member team to deliver an award-winning project
 
 ## 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/jason-lin-896055125/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaron-lin-896055125/)
 - 📧 [Email](mailto:sheep52031@gmail.com)
 - 🌐 [Portfolio](https://sheep52031.github.io/en/portfolio)
 
