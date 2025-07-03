@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hey there, I'm <a  href="https://github.com/uuboyscy/">Jason Lin </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/uuboyscy/">Jaron Lin </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/jason-lin-896055125f?style=flat&logo=linkedin)](https://www.linkedin.com/in/jason-lin-896055125/)
 [![Gmail Badge](https://img.shields.io/badge/sheep52031@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:sheep52031@gmail.com)
