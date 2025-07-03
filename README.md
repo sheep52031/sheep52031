@@ -48,13 +48,11 @@ I'm a passionate AI/ML Engineer with a strong background in building scalable di
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheep52031&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheep52031&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheep52031&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheep52031&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheep52031&theme=radical" alt="GitHub Streak" width="400" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheep52031&theme=radical" alt="sheep52031" />
-</div>
 
 ## 🏆 Featured Projects
 
@@ -69,13 +67,6 @@ I'm a passionate AI/ML Engineer with a strong background in building scalable di
 - Developed a real-time cat breed identification system using YOLOv7
 - Integrated with LINE Bot for user-friendly interaction
 - Led a 6-member team to deliver an award-winning project
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building LLM Applications with LangChain](https://example.com/llm-langchain)
-- [From Zero to Hero: Deploying ML Models with FastAPI](https://example.com/ml-fastapi)
-- [Computer Vision for Beginners: Cat Detection](https://example.com/cv-cat-detection)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/jason-lin-896055125/)
